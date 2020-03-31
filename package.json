@@ -19,7 +19,7 @@
     "draft-js-plugins-editor": "^3.0.0",
     "draft-js-static-toolbar-plugin": "^3.0.1",
     "emotion-theming": "^10.0.27",
-    "next": "9.2.2",
+    "next": "9.3.2",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   },
